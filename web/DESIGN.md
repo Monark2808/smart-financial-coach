@@ -222,3 +222,9 @@ This approach is simple, transparent, and easy to communicate.
 
 This Smart Financial Coach delivers a focused, actionable MVP that balances **AI transparency, user privacy, and meaningful insights**. The architecture supports expansion into more advanced ML-powered features while keeping the current version lightweight, explainable, and user-friendly.
 
+
+# 12. Video Presentation Link (Youtube) :
+
+Link - https://youtu.be/LmdiTdj5Qmw?si=fZ1_I_5skjRQR5Dj
+
+## THANK YOU.
