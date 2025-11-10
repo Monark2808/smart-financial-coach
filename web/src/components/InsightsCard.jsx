@@ -3,7 +3,7 @@ import { Card, CardHeader, CardContent, Typography, Stack } from "@mui/material"
 export default function InsightsCard({ insights = [] }) {
   return (
     <Card sx={{ height: "100%" }}>
-      <CardHeader title="Insights" subheader="AI-lite spending highlights" />
+      <CardHeader title="Insights" subheader="Clear, friendly spending highlights" />
       <CardContent>
         {insights.length === 0 ? (
           <Typography variant="body2">Load a CSV to see insights.</Typography>
